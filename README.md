@@ -39,7 +39,7 @@ Download from https://ffmpeg.org/download.html and add to PATH
 
 1. Clone or navigate to this directory:
 ```bash
-cd transctipt_from_video
+cd video_to_transcript_cli_tool
 ```
 
 2. Install Python dependencies:
